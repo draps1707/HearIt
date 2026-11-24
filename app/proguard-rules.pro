@@ -1,0 +1,3 @@
+-keep class com.hearit.app.data.** { *; }
+-keep class com.hearit.app.network.** { *; }
+-dontwarn org.tensorflow.lite.**
